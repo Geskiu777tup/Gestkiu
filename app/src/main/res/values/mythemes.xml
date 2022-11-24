@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="mainStyle"
+        parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#008000</item>
+        <item name="colorPrimaryVariant">#008000</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:windowBackground">#BBC18F</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="tvStyle">
+        <item name="android:backgroundTint">#BBC18F</item>
+    </style>
+</resources>
